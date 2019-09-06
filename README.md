@@ -1,1 +1,2 @@
-"# mbg comment generator \n generate api model properties" 
+# mbg comment generator 
+generate api model properties
